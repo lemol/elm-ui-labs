@@ -5,8 +5,16 @@
   "repository": "https://github.com/lemol/elm-ui-labs.git",
   "author": "Leza Morais Lutonda <lemol-c@hotmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
   "devDependencies": {
     "elm": "^0.19.0-no-deps",
-    "parcel": "^1.12.3"
+    "elm-analyse": "^0.16.4",
+    "elm-format": "^0.8.2",
+    "elm-hot": "^1.1.2",
+    "node-elm-compiler": "^5.0.4",
+    "parcel-bundler": "^1.12.3"
   }
 }
