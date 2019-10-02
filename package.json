@@ -1,0 +1,12 @@
+{
+  "name": "elm-ui-labs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lemol/elm-ui-labs.git",
+  "author": "Leza Morais Lutonda <lemol-c@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "elm": "^0.19.0-no-deps",
+    "parcel": "^1.12.3"
+  }
+}
